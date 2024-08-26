@@ -37,6 +37,7 @@ a {
     align-items: center;
 }
 .header_in a{
+    
     text-decoration: none;
     color: #333;
     display: inline-block;
@@ -183,7 +184,7 @@ h2 {
     color: #333;
     display: inline-block;
     border: 2px solid #1b1c1b;
-    padding: 10px 1cqb;
+    padding: 10px ;
     font-size: 18px;
     margin: 50px;
     border-radius: 10px;
@@ -192,11 +193,11 @@ h2 {
 }
 .sub3_top a:hover{
     transform: translateY(10px);
-    box-shadow: 0 0 0 #ccc;
+    box-shadow: 0 0 0 #fefefd;
 }
 .sub3 {
     margin: 20px;
-
+    
 }
 
 .sub3 h1 {
